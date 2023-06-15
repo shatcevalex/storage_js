@@ -14,7 +14,7 @@ public class Ex03_1 {
             System.out.print("Введите значение r =  ");
             int r = scanner.nextInt();
 
-            int D = (r * r) + (r * r);
+            int D = (r + r) * (r + r);
             int X = (a * a) + (b * b);
             while (true) {
 

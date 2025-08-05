@@ -41,7 +41,7 @@ public class Data_types_variables_operators {
         if (isAdult && hasLicense) {
             System.out.println("Можно водить машину?");
         }else{
-            System.out.println("Нельзя водить машину");
+            System.out.println("Нельзя водить машину ");
 
         }
 

@@ -34,9 +34,8 @@ public class Сalculator {
             System.out.println("Ответ "+ three);
         }
         if (c == '/'){
-            int four = a / b;
-            int five = a % b;
-            System.out.println("Ответ "+ four + "."+ five);
+            float four = (float) a / b;
+            System.out.println("Ответ "+ four );
         }
 
 

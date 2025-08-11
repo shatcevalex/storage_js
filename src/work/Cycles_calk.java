@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Cycles_calk {
     // Программа которая :
-    // 1) Запрашивает у пользователя число n.
+    // 1) Запрашивает у пользователя число n
     // 2) Выводит таблицу умножения на n от 1 до 10 с помощью цикла for.
     public static void main(String[] args) {
 

@@ -7,6 +7,7 @@ public class Graf_pyramid {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число");
         int n = scanner.nextInt();
+        System.out.println("Вы выбрали "+n);
 
     }
 }

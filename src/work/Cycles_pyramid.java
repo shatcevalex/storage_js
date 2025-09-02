@@ -16,7 +16,7 @@ public class Cycles_pyramid {
                 System.out.print(" ");
             }
             // печатаем звёздочки
-            for (int j = 0; j <= 2 * i  ; j++) {
+            for (int j = 0; j <= 2 * i  ; j++ ) {
                 System.out.print("*");
                 
             }
@@ -25,7 +25,7 @@ public class Cycles_pyramid {
         // Нижняя половина ромба
         for (int i = n - 1; i >= 1 ; i--) {
             // Печатаем пробелы
-            for (int j = 1; j <= n - i; j++) {
+            for (int j = 1; j <= n - i; j++ ) {
                 System.out.print(" ");
                 
             }

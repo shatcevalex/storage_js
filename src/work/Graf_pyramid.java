@@ -16,7 +16,7 @@ public class Graf_pyramid {
        //   }
 
 
-        // С помощью while вывеk числа от n до 1 в обратном порядке
+        // С помощью while выведи числа от n до 1 в обратном порядке
         // int i = 1;
         // while (i <= n){
         //    System.out.println(n + " ");

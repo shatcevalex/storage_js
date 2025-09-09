@@ -11,7 +11,7 @@ public class Graf_pyramid {
         // Вывод только четных чисел
        // for (int i = 0 ; i <= n; i++)  {
        //     if (i % 2 == 0){
-       //         System.out.print(i+" ");
+       //         System.out.print(i + " ");
        //      }
        //   }
 
@@ -26,7 +26,7 @@ public class Graf_pyramid {
       // С помощью do…while выведи числа от 1 до n
         int i = 1;
         do {
-            System.out.println(i + " ");
+            System.out.println(i + " " );
             i++;
         } while (i <= n);
 

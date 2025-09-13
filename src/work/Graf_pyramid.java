@@ -9,11 +9,11 @@ public class Graf_pyramid {
         int n = scanner.nextInt();
 
         // Вывод только четных чисел
-       // for (int i = 0 ; i <= n; i++)  {
-       //     if (i % 2 == 0){
-       //         System.out.print(i + " ");
-       //      }
-       //   }
+        // for (int i = 0 ; i <= n; i++)  {
+        //     if (i % 2 == 0){
+        //         System.out.print(i + " ");
+        //      }
+        //   }
 
 
         // С помощью while выведи числа от n до 1 в обратном порядке

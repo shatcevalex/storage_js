@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Graf_pyramid {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner (System.in);
         System.out.println("Введите число");
         int n = scanner.nextInt();
 
@@ -18,7 +18,7 @@ public class Graf_pyramid {
 
         // С помощью while выведи числа от n до 1 в обратном порядке
         // int i = 1;
-        // while (i <= n){
+        // while ( i <= n){
         //    System.out.println(n + " ");
         //    n--;
         //   }

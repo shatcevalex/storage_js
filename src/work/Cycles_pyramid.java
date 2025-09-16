@@ -9,7 +9,7 @@ public class Cycles_pyramid {
         System.out.println("Введите число");
         int n = scanner.nextInt();
 
-        // Верхняя половина ромба
+            // Верхняя половина ромба
         for (int i = 0; i < n ; i++) {
             // печатаем пробелы
             for (int j = 1; j < n - i; j++) {

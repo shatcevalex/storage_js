@@ -22,7 +22,7 @@ public class Cycles_pyramid {
             }
             System.out.println();
         }
-        // Нижняя половина ромба
+             // Нижняя половина ромба
         for (int i = n - 1; i >= 1 ; i--) {
             // Печатаем пробелы
             for (int j = 1; j <= n - i; j++ ) {

@@ -20,7 +20,7 @@ public class Cycles_pyramid {
                 System.out.print("*");
                 
             }
-            System.out.println();
+              System.out.println();
         }
              // Нижняя половина ромба
         for (int i = n - 1; i >= 1 ; i--) {

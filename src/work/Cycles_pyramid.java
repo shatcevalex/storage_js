@@ -32,7 +32,8 @@ public class Cycles_pyramid {
             // Печатаем звездочки
             for (int j = 2; j <= 2 * i ; j++) {
                 System.out.print("*");
-                
+
+
             }
             System.out.println();
             

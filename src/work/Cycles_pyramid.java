@@ -26,7 +26,7 @@ public class Cycles_pyramid {
         for (int i = n - 1; i >= 1 ; i--) {
             // Печатаем пробелы
             for (int j = 1; j <= n - i; j++ ) {
-                System.out.print(" ");
+                 System.out.print(" ");
                 
             }
             // Печатаем звездочки

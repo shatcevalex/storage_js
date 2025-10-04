@@ -16,7 +16,7 @@ public class Cycles_pyramid {
                 System.out.print(" ");
             }
             // печатаем звёздочки
-            for (int j = 0; j <= 2 * i  ; j++ ) {
+            for (int j = 0; j <= 2 * i  ; j++ )  {
                 System.out.print("*");
                 
             }
